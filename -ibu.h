@@ -2,3 +2,6 @@
 #define IBU-H
 #include <vektor>
 
+class ibu {
+public:
+}
